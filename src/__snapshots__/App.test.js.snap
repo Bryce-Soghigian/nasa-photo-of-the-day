@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+       Toggle Title
+    </button>
+  </div>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+       Toggle date
+    </button>
+  </div>
+  <div>
+    <button
+      className="button sc-bdVaJa dwKuEV"
+      onClick={[Function]}
+    >
+       Toggle explanation
+    </button>
+  </div>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+       Show copyright or nah?
+    </button>
+  </div>
+  <div>
+    <embed />
+  </div>
+</div>
+`;
